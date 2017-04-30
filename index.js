@@ -1,3 +1,3 @@
 import('./asyncChunk').then(chunk => {
-  console.info('Loaded ' + chunk.name);
+  console.info('loaded ' + chunk.name);
 });

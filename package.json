@@ -1,7 +1,7 @@
 {
   "name": "webpack-require-ensure-plugin-example",
   "version": "1.0.0",
-  "description": "Example of customizing webpack's require.ensure chunk loader runtime",
+  "description": "Example of customizing webpack's import() / require.ensure() chunk loader runtime",
   "main": "index.js",
   "repository": "git@github.com:elliottsj/webpack-require-ensure-plugin-example.git",
   "author": "Spencer Elliott <me@elliottsj.com>",
